@@ -1,0 +1,1092 @@
+[
+    {
+        "utteranceText": "ARYAN",
+        "accuracy": 0.8,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Web Developer",
+        "accuracy": 1,
+        "entity": "job"
+    },
+    {
+        "utteranceText": "Plan",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Plan",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "web applications",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "programming",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "back",
+        "accuracy": 0.8,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "layer",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Work Experience",
+        "accuracy": 0.8333333333333334,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Construction",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "and Development",
+        "accuracy": 0.9375,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Corporation",
+        "accuracy": 0.9090909090909091,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "Department Head",
+        "accuracy": 1,
+        "entity": "job"
+    },
+    {
+        "utteranceText": "October",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Designed",
+        "accuracy": 0.875,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "GPS",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "using",
+        "accuracy": 0.8333333333333334,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "using",
+        "accuracy": 0.8333333333333334,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "Arduino",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Atmega",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "GPRS",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "2020",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "three",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "Designed",
+        "accuracy": 0.875,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "website",
+        "accuracy": 0.875,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "com",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Designed",
+        "accuracy": 0.875,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Nginx",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Nodejs",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "HTML",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "CSS",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Postgresal",
+        "accuracy": 0.9,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "November",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "ISO 9001",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "external audit",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "2020",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "2015",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "2015",
+        "accuracy": 0.95,
+        "entity": "daterange"
+    },
+    {
+        "utteranceText": "preventive maintenance",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "compliance",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "compliance",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "10",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "5",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "10%",
+        "accuracy": 0.95,
+        "entity": "percentage"
+    },
+    {
+        "utteranceText": "<5 months",
+        "accuracy": 0.95,
+        "entity": "duration"
+    },
+    {
+        "utteranceText": "Achieved",
+        "accuracy": 0.875,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "heavy equipment",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "98",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "87",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "98%",
+        "accuracy": 0.95,
+        "entity": "percentage"
+    },
+    {
+        "utteranceText": "Global",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Global Mobility",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Aftersales",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Customer Support",
+        "accuracy": 1,
+        "entity": "job"
+    },
+    {
+        "utteranceText": "November",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "August",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Aftersales",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Customer Support",
+        "accuracy": 1,
+        "entity": "job"
+    },
+    {
+        "utteranceText": "team",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "customer facing",
+        "accuracy": 0.9285714285714286,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "aftersales",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "concerns",
+        "accuracy": 0.875,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "2019",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "2020",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "Customer Support",
+        "accuracy": 1,
+        "entity": "job"
+    },
+    {
+        "utteranceText": "Data",
+        "accuracy": 1,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "Customer Relations Management",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "System",
+        "accuracy": 0.8571428571428571,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "customer support",
+        "accuracy": 1,
+        "entity": "job"
+    },
+    {
+        "utteranceText": "functions",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "cloud-based",
+        "accuracy": 0.9,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "billing",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "cloud-based",
+        "accuracy": 0.9,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "fleet",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "management",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "systems",
+        "accuracy": 0.8571428571428571,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Airlines",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Engineering",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "store",
+        "accuracy": 0.8333333333333334,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "August",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Troubleshoot and",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "junction",
+        "accuracy": 1,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "aircraft",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "and maintenance",
+        "accuracy": 0.8235294117647058,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "2019",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "2019",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "June 2019",
+        "accuracy": 0.95,
+        "entity": "daterange"
+    },
+    {
+        "utteranceText": "Troubleshoot and",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "David",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Power",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Test Equipment",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Inventory Management",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Systems",
+        "accuracy": 0.8571428571428571,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Control",
+        "accuracy": 0.875,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Aviation",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "gitlab",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "com",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "linkedin",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "com",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "aryan",
+        "accuracy": 0.8,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Embedded Systems",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "C",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Web Development",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "HTML5",
+        "accuracy": 0.8333333333333334,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "JavaScript",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Material",
+        "accuracy": 0.8888888888888888,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Material",
+        "accuracy": 0.8888888888888888,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Postgresql",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Code",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Code",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Figma",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Tools",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Development",
+        "accuracy": 0.8461538461538461,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Ubuntu",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Windows",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Mechanic",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "September",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "October",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "engine",
+        "accuracy": 0.8333333333333334,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "09491029832",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "09771530410",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "2019",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "2020",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "09491029832",
+        "accuracy": 0.95,
+        "entity": "phonenumber"
+    },
+    {
+        "utteranceText": "09771530410",
+        "accuracy": 0.95,
+        "entity": "phonenumber"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "engine",
+        "accuracy": 0.8333333333333334,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "engine",
+        "accuracy": 0.8333333333333334,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "engine",
+        "accuracy": 0.8333333333333334,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "diagnostics",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "using",
+        "accuracy": 0.8333333333333334,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "using",
+        "accuracy": 0.8333333333333334,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "sensor",
+        "accuracy": 0.8571428571428571,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "diagnosis",
+        "accuracy": 0.8181818181818182,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "engine",
+        "accuracy": 0.8333333333333334,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Information System",
+        "accuracy": 0.9473684210526315,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Engine",
+        "accuracy": 0.8333333333333334,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "engine",
+        "accuracy": 0.8333333333333334,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Education",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Stack",
+        "accuracy": 0.8,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Web Developer",
+        "accuracy": 1,
+        "entity": "job"
+    },
+    {
+        "utteranceText": "Coding",
+        "accuracy": 0.8571428571428571,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "Boot camp",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "October",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "March",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "front-end",
+        "accuracy": 0.875,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "HTML5",
+        "accuracy": 0.8333333333333334,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "CSS3",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "JavaScript",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "2020",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "2021",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "Back-end technologies",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Nodejs",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "understanding",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "application",
+        "accuracy": 0.8181818181818182,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "and implementation",
+        "accuracy": 0.9,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "APIs",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "git",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Science",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Avionics",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "PATTS College of Aeronautics",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "March",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Avionics",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Integration",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "embedded systems",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "2015",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "2019",
+        "accuracy": 0.95,
+        "entity": "number"
+    },
+    {
+        "utteranceText": "June 2015",
+        "accuracy": 0.95,
+        "entity": "daterange"
+    },
+    {
+        "utteranceText": "Theory",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "flight",
+        "accuracy": 0.8571428571428571,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "propulsion",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "electronics",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "communication",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "communication systems",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "understanding",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "analog",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "data",
+        "accuracy": 1,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "Character",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "will",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "upon",
+        "accuracy": 1,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "request",
+        "accuracy": 0.8333333333333334,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Deployments",
+        "accuracy": 0.9,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Github",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Gitlab",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Pages",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "COM",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "crm",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Driven",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "strong",
+        "accuracy": 1,
+        "entity": "soft_skills"
+    },
+    {
+        "utteranceText": "drive",
+        "accuracy": 1,
+        "entity": "soft_skills"
+    },
+    {
+        "utteranceText": "challenges",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Goal oriented",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Team player",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Patient",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "supervision",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Diligent",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "perseverance",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Likes",
+        "accuracy": 0.8,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "challenges",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Creative",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "problem solver",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "presentation",
+        "accuracy": 1,
+        "entity": "soft_skills"
+    },
+    {
+        "utteranceText": "public",
+        "accuracy": 1,
+        "entity": "barangays"
+    },
+    {
+        "utteranceText": "communication",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "interpersonal skills",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Language Skills",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "Speech",
+        "accuracy": 1,
+        "entity": "skill"
+    },
+    {
+        "utteranceText": "on",
+        "accuracy": 1,
+        "entity": "education"
+    },
+    {
+        "utteranceText": "Speech",
+        "accuracy": 1,
+        "entity": "skill"
+    }
+]
